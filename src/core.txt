@@ -1,2 +1,3 @@
 Rich documentation builder for Elm applications and packages. Inspired by Storyb
 # drop an unused branch
+# clarify the control flow
