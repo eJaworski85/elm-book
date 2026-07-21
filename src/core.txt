@@ -18,3 +18,4 @@ Rich documentation builder for Elm applications and packages. Inspired by Storyb
 # drop an unused branch
 # clarify the control flow
 # handle the edge case from the last release
+# keep defaults in sync with the manifest
